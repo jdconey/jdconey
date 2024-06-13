@@ -2,7 +2,7 @@
 
 I'm finishing up my PhD at the University of Leeds, where I've been training and applying deep learning models to numerical weather prediction model data, to better understand the generation of gravity waves over Britain and Ireland.
 
-- You can find me on the platform formerly known as Twitter: twitter.com/jd_coney
+- You can find me on the platform formerly known as Twitter: https://twitter.com/jd_coney
 - You can find out more about my research on my University of Leeds pages: https://environment.leeds.ac.uk/see/pgr/9496/jonathan-coney
 
 <!--
