@@ -1,9 +1,11 @@
 ## Hello 
 
-I'm finishing up my PhD at the University of Leeds, where I've been training and applying deep learning models to numerical weather prediction model data, to better understand the generation of gravity waves over Britain and Ireland.
+I'm a research software engineer at the UK's National Oceanography Centre (NOC: https://www.noc.ac.uk). 
+Before joining NOC, I completed a PhD at the University of Leeds, where I trained and applied deep learning models to numerical weather prediction model data, to better understand the generation of gravity waves over Britain and Ireland.
 
-- You can find me on the platform formerly known as Twitter: https://twitter.com/jd_coney. *No you can't, under its current ownership.*
-- You can find out more about my research on my University of Leeds pages: https://environment.leeds.ac.uk/see/pgr/9496/jonathan-coney
+- My NOC profile page: https://noc.ac.uk/n/Jonathan+Coney
+- You can find out more about my PhD research on my University of Leeds pages: https://environment.leeds.ac.uk/see/pgr/9496/jonathan-coney
+- You can find me on the platform formerly known as Twitter: https://twitter.com/jd_coney, *but I'm not using it, under its current ownership.*
 
 <!--
 **jdconey/jdconey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
