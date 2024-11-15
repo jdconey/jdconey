@@ -5,7 +5,8 @@ Before joining NOC, I completed a PhD at the University of Leeds, where I traine
 
 - My NOC profile page: https://noc.ac.uk/n/Jonathan+Coney
 - You can find out more about my PhD research on my University of Leeds pages: https://environment.leeds.ac.uk/see/pgr/9496/jonathan-coney
-- You can find me on the platform formerly known as Twitter: https://twitter.com/jd_coney, *but I'm not using it, under its current ownership.*
+- I am on Bluesky: jdconey.bsky.social.
+- I am no longer using the platform formerly known as Twitter.
 
 <!--
 **jdconey/jdconey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
